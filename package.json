@@ -17,7 +17,7 @@
   "description": "A project that does something awesome",
   "version": "1.0.0",
   "devDependencies": {},
-  "keywords": [],
+  "keywords": ["descriptive", "related", "words", "freecodecamp"],
   "author": "Chukwuka Akibor",
   "license": "ISC"
 }
