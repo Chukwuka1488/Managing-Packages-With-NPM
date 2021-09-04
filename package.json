@@ -1,10 +1,11 @@
 {
   "name": "chukwuka-akibor",
-    "engines": {
+  "engines": {
     "node": "^14.17.0"
   },
   "dependencies": {
-    "express": "^4.14.0"
+    "express": "^4.14.0",
+    "moment": "^2.29.1"
   },
   "main": "server.js",
   "scripts": {
@@ -16,8 +17,12 @@
   },
   "description": "A project that does something awesome",
   "version": "1.2.0",
-  "devDependencies": {},
-  "keywords": ["descriptive", "related", "words", "freecodecamp"],
+  "keywords": [
+    "descriptive",
+    "related",
+    "words",
+    "freecodecamp"
+  ],
   "author": "Chukwuka Akibor",
   "license": "MIT"
 }
